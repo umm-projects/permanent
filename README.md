@@ -10,7 +10,7 @@
 # Install
 
 ```shell
-$ npm install @umm/permanent
+$ npm install github:umm-projects/permanent.git
 ```
 
 # Usage
