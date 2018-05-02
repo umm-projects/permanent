@@ -10,7 +10,7 @@
 # Install
 
 ```shell
-$ npm install github:umm-projects/permanent.git
+yarn add "umm-projects/permanent#^1.0.0"
 ```
 
 # Usage
