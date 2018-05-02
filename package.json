@@ -30,6 +30,7 @@
   ],
   "dependencies": {
     "@umm/gameobject_extension_component": "umm-projects/gameobject_extension_component#^1.0.0",
+    "@umm/scripts": "umm-projects/scripts#^1.0.0",
     "glob": "^7.1.1",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
