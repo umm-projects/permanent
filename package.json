@@ -2,9 +2,9 @@
   "name": "@umm/permanent",
   "version": "1.2.0",
   "description": "Provide permanent access to any GameObject.",
-  "homepage": "https://github.com/umm-projects/permanent",
+  "homepage": "https://github.com/umm/permanent",
   "bugs": {
-    "url": "https://github.com/umm-projects/permanent/issues"
+    "url": "https://github.com/umm/permanent/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,15 +22,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/permanent"
+    "url": "git@github.com:umm/permanent"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/gameobject_extension_component": "umm-projects/gameobject_extension_component#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/gameobject_extension_component": "umm/gameobject_extension_component#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }

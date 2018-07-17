@@ -10,7 +10,7 @@
 # Install
 
 ```shell
-yarn add "umm-projects/permanent#^1.0.0"
+yarn add "umm/permanent#^1.0.0"
 ```
 
 # Usage
