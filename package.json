@@ -1,6 +1,6 @@
 {
   "name": "@umm/permanent",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Provide permanent access to any GameObject.",
   "homepage": "https://github.com/umm/permanent",
   "bugs": {
